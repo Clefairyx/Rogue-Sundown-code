@@ -1,6 +1,6 @@
 # Rogue Sundown code
 
-\# Rogue Sundown - Code Showcase
+# Rogue Sundown - Code Showcase
 
 
 
@@ -8,7 +8,7 @@ This repository contains the C++ source and project configuration for my Unreal 
 
 
 
-\## Included
+## Included
 
 \- Source code
 
@@ -18,7 +18,7 @@ This repository contains the C++ source and project configuration for my Unreal 
 
 
 
-\## Omitted
+## Omitted
 
 \- Game content and commercial assets
 
@@ -30,5 +30,6 @@ This repository is intended as a code showcase and does not contain everything r
 
 
 
-Steam page: Coming Soon
+Steam page: https://store.steampowered.com/app/4544080/Rogue_Sundown/
+
 
